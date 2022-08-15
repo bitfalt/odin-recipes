@@ -1,0 +1,37 @@
+.title {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients {
+    background-color: rgb(41, 147, 235);
+    color: rgb(0, 255, 0);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;;
+}
+
+.steps {
+    background-color: rgb(0, 255, 136);
+    color: rgb(0, 0, 255);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;;
+}
+
+.recipes {
+    background-color: rgb(38, 197, 171);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+
+p {
+    background-color:rgb(0, 255, 136);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
